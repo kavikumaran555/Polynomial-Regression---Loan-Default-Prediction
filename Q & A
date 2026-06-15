@@ -1,0 +1,8 @@
+what is non linear data? - A relationship between x and y variables are not even, not in straight line or even. Sometimes the X affects Y better, sometimes X affects Y very low.
+Why we are using polynomial regression here? - because polynomial regression works best with non linear relationship of data.
+why we are using both polynomial and linear models here? - polynomial features are used to create squared features, which makes it easy for linear regression to do prediction.
+what does range() do? - range creates a sequence of numbers upto the mentioned level.
+what does len() do? - len shows how many elements present inside.
+What is model.fit? - It learns from data and finds best coefficients 
+what is model.predict? - It used learning to predicts the future data
+what is model.score? - it will predict the future data as well as compare with actual output and give r squared result showing how well the model fits the data.
